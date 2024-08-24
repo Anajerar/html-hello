@@ -1,0 +1,56 @@
+body {
+    background-color: gray;
+    margin:0;
+}
+
+img {
+    width: 100%;
+    margin:auto;
+    border: 1px solid grey;
+}
+
+.dancing-script-Cursive {
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    margin:0;
+    padding-left:25%; 
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.PageHeader {
+    background-color: white;
+    width:100%;
+    margin-bottom:30px;
+
+
+}
+
+.postFrame {
+    background-color: white;
+    width:50%;
+    margin:auto;
+    margin-bottom: 30px;
+    
+    
+}
+
+.postHeader div:first-child  {
+    width:65%;
+    padding: 10px;
+    display: inline-block; 
+}
+.postHeader div:last-child  {
+    display: inline-block; 
+    text-align: right;
+    width:20%;
+    margin-right: 10px;
+}
+
+
+.postDescription {
+    font-size: 18px;
+    padding:5px;
+}
